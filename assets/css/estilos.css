@@ -13,7 +13,7 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,13 +22,13 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
+#Contactar form label {
   font-weight: 700;
   color: #373a3c;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
+  #Contactar form label {
     font-weight: 400;
   }
 
